@@ -1,5 +1,6 @@
-# LabEngSoftware
-atividades realizadas para entrega
+# Criar ambiente virtual
+
+<p>Criar um diretório</p>
 
 
 ## arquivo app.py
