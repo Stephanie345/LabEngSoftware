@@ -17,7 +17,7 @@
 ## arquivo app.py
 
 * Linha 1: faz a importação da classe "Flask" do módulo "flask" e o render_templete
-* Linha 3: cria uma instÂncia da classe importada e passamos como argumento "teste_labEng", indicando para o flask
+* Linha 3: cria uma instância da classe importada e passamos como argumento "teste_labEng", indicando para o flask
 qual arquivo ele deve executar
 * Linha 6: utiliza um decorador para criar uma rota."/" indica a rota raiz da aplicação
 * Linha 7: defini um método que será executado quando a rota raiz for acessada
