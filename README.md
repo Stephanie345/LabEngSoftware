@@ -2,7 +2,16 @@
 
 <p>Criar um diretório</p>
 <p>Entrar no diretório</p>
-<p>Para criar o nome do ambiente virtual: python3 -m venv venv</p>
+<p>criar o nome do ambiente virtual: python3 -m venv venv</p>
+<p>Verificar se foi listado: ls</p>
+* Para activar o ambiente virtual:
+<p>cd venv</p>
+<p>cd Scripts</p>
+<p>Para ativar o ambiente virtual: activate</p>
+* Para instalar o flask:
+<p>pip install flask</p>
+* Rodar o arquivo app.py:
+<p>python app.py</p>
 
 
 ## arquivo app.py
