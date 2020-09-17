@@ -22,6 +22,7 @@ qual arquivo ele deve executar
 * Linha 6: utiliza um decorador para criar uma rota."/" indica a rota raiz da aplicação
 * Linha 7: defini um método que será executado quando a rota raiz for acessada
 * Linha 8: retorna o conteúdo do arquivo index.html contendo as três linhas especificadas no requisito da tarefa
+* Linha 9: app.run() função para rodar o arquivo app.py
 
 ## arquivo index.html
 * Foi criada uma estrutura simples do html
