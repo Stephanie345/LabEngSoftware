@@ -12,6 +12,8 @@
 <p>pip install flask</p>
 * Rodar o arquivo app.py:
 <p>python app.py</p>
+* Criar o requeriments.txt:
+<p>pip freeze > requirements.txt</p>
 
 
 ## arquivo app.py
