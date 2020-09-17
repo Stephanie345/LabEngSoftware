@@ -1,6 +1,8 @@
 # Criar ambiente virtual
 
 <p>Criar um diretório</p>
+<p>Entrar no diretório</p>
+<p>Para criar o nome do ambiente virtual: python3 -m venv venv</p>
 
 
 ## arquivo app.py
