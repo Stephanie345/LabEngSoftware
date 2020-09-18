@@ -32,3 +32,6 @@ na linha 3,4 e 5 contém as três frases necessárias para a entraga da tarefa q
 * -Titulo do tarefa
 * -Nome e RA
 * -Nome do professor
+
+Link do Vídeo:
+https://youtu.be/p9qa4Td6-GI
